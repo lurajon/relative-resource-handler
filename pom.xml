@@ -29,7 +29,7 @@
     <name>Relative ResourceHandler Aggregator Project</name>
 	
 	<scm>
-	    <developerConnection>scm:https://github.com/lurajon/relative-resource-handler.git</developerConnection>
+	    <developerConnection>scm:git:https://github.com/lurajon/relative-resource-handler.git</developerConnection>
 	  </scm>
 
     <modules>
