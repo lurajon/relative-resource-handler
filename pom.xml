@@ -24,13 +24,9 @@
 
     <groupId>org.apacheextras.myfaces</groupId>
     <artifactId>relative-resource-handler-aggregate-project</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Relative ResourceHandler Aggregator Project</name>
-	
-	<scm>
-	    <developerConnection>scm:git:https://github.com/lurajon/relative-resource-handler.git</developerConnection>
-	  </scm>
 
     <modules>
         <module>resource-handler</module>
