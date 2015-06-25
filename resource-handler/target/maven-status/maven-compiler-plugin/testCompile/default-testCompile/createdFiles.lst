@@ -1,0 +1,5 @@
+org/apacheextras/myfaces/resourcehandler/RelativeResourceImplTest.class
+org/apacheextras/myfaces/resourcehandler/el/ValueExpressionEvaluationInputStreamTest.class
+org/apacheextras/myfaces/resourcehandler/RelativeResourceHandlerProductionTest.class
+org/apacheextras/myfaces/resourcehandler/RelativeResourceHandlerTest.class
+org/apacheextras/myfaces/resourcehandler/ResourceUtilsTest.class

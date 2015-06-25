@@ -1,0 +1,5 @@
+org/apacheextras/myfaces/resourcehandler/examples/MultiTenancyRelativeResourceResolverProvider.class
+org/apacheextras/myfaces/resourcehandler/examples/HelloWorldController.class
+org/apacheextras/myfaces/resourcehandler/examples/MultiTenancyRelativeResourceResolver.class
+org/apacheextras/myfaces/resourcehandler/examples/MultiTenancyRelativeResource.class
+org/apacheextras/myfaces/resourcehandler/examples/MultiTenancyResourceId.class
